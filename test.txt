@@ -4,6 +4,9 @@ master
 =======
 test1
 >>>>>>> test
+<<<<<<< HEAD
 =======
 test2
 >>>>>>> test
+=======
+>>>>>>> parent of d15bda7... Merge branch 'test'
