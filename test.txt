@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 master
 =======
 test1
 >>>>>>> test
+=======
 test2
+>>>>>>> test
